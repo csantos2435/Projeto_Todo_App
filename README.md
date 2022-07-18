@@ -1,1 +1,1 @@
-# Projeto_Todo_App
+# Projeto Todo App - iniciação em JavaScript 
